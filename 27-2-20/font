@@ -1,0 +1,15 @@
+
+<html>
+<head></head>
+<body>
+	<p style="font-style:italic;">This text will be rendered in italic style</p>
+	<p style='font-family: cursive;'>This text is rendered in cursive<p>
+	<p style='font-family: "Times New Roman", Times,serif;'>This text is rendered in either times new roman, times, or the default serif font depending on which font you have at your system.</p>
+	<p style="font-size:20px;">This font size is 20 pixels</p>
+	<p style="font-size:small;">This font size is small</p>
+	<p style="font-size:large;">This font size is large</p>
+	<p style="font-weight:500;">This font is 500 weight</p>
+	<p style="font-weight:bolder;">This font is bolder</p>
+	<p style="font-strech:ultra-expanded;">If this doesn't appear to work, it is likely that your computer doesn't have a condensed or expanded version of the font being used.</p>
+</body>
+</html>
